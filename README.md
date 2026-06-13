@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=00FF00&width=1000&lines=Hi,+I'm+Triveni+Narayan+Priy;IoT+%26+Web+Developer;Tech+Creator+@+NIT+Patna;Founder+of+SEJULINK" alt="Typing SVG" />
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=00F0FF&width=1000&lines=Hi,+I'm+Triveni+Narayan+Priy;B.Tech+ECE+(VLSI)+@+NIT+Patna;Manager+@+Innovation+Hub,+NITP;Tech+Creator+%26+IoT+Enthusiast" alt="Typing SVG" />
+
+<br>
+
+<!-- Dynamic Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=triveninarayanpriy&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -8,11 +14,48 @@
 
 ### 👨‍💻 About Me
 
-I am a B.Tech student in **Electronics and Communication Engineering (VLSI)** at **NIT Patna**, driven by the intersection of hardware innovation and scalable software solutions. My work focuses on building self-organizing IoT ecosystems and streamlining academic resources through platforms like SEJULINK.
+I am a B.Tech student pursuing **Electronics and Communication Engineering (VLSI)** at the **National Institute of Technology, Patna (2025-2029)**. I am passionate about the intersection of hardware and software, with a strong interest in VLSI design, Artificial Intelligence, and Entrepreneurship. 
 
-* 🛠 **Specialties:** Embedded Systems, Robotics, Web Development (Python/Django), and IoT Mesh Networks.
-* 🎥 **Creator:** Managing technical content at @ambitiousingineers and ANUVENI.
-* 📈 **Goal:** Bridging the gap between complex hardware systems and user-friendly digital interfaces.
+* 🎓 **Academic Excellence:** Achieved **State Rank 10** in the Bihar Board Examinations and was the **Rohtas District Topper**[cite: 1]. Currently maintaining a CGPA of 8.05 at NIT Patna[cite: 1].
+* 🏆 **Hackathons:** Selected in the internal round of the Smart India Hackathon (September 2025)[cite: 1].
+* 🤖 **Hardware & IoT:** Experienced in building functional robots, home automation systems, and remote-controlled architectures using Arduino and various electronic components[cite: 1].
+* 📱 **Software Development:** Building applications using Flutter and exploring web frameworks like Django[cite: 1].
+
+---
+
+### 🚀 Experience & Leadership
+
+* **Manager** @ *Innovation Hub, NIT Patna* (Oct 2025 - Present)[cite: 1]
+* **Co-Founder** @ *Samvad Debate Club* – Fostering public speaking and critical thinking[cite: 1]
+* **Subject Matter Expert (Freelancer)** @ *Physics Wallah* – JEE/NEET doubt solving[cite: 1]
+* **SME & Question Bank Manager** @ *Target Board* – Academic support for Class 9-12[cite: 1]
+* **Peer Mentor** @ *The Toppers Gurukul*[cite: 1]
+* **Active Member** @ *Sankalp (NSS), NIT Patna* – Contributing to social outreach[cite: 1]
+
+---
+
+### 🛠 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Frameworks & App Dev** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
+| **IoT & Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Electronics](https://img.shields.io/badge/Hardware-1E1E1E?style=for-the-badge&logo=microchip&logoColor=white) |
+| **Tools & Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| **Content Creation** | ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white) |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/triveninarayanpriy">
+    <img src="https://github-readme-stats.vercel.app/api?username=triveninarayanpriy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/triveninarayanpriy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triveninarayanpriy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" alt="Top Languages" width="48%" />
+  </a>
+</div>
 
 ---
 
@@ -20,28 +63,9 @@ I am a B.Tech student in **Electronics and Communication Engineering (VLSI)** at
 
 <div align="center">
 
-<!-- LinkedIn Badge -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/triveninarayanpriy)
-</div>
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://triveninarayanpriy.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/triveninarayanpriy/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trivenip.ug25.ec@nitp.ac.in)
+[![Phone](https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919955061027)
 
-</div>
-
----
-
-### 🛠 Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **IoT / Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) |
-| **Tools & Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=triveninarayanpriy&show_icons=true&theme=tokyonight&hide_border=true" alt="Triveni's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triveninarayanpriy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
