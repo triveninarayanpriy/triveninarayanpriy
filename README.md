@@ -21,9 +21,7 @@ I am a B.Tech student in **Electronics and Communication Engineering (VLSI)** at
 <div align="center">
 
 <!-- LinkedIn Badge -->
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="triveninarayanpriy" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/triveninarayanpriy?trk=profile-badge">TRIVENI NARAYAN PRIY</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/triveninarayanpriy)
 </div>
 
 </div>
@@ -44,6 +42,6 @@ I am a B.Tech student in **Electronics and Communication Engineering (VLSI)** at
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Triveni's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=triveninarayanpriy&show_icons=true&theme=tokyonight&hide_border=true" alt="Triveni's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triveninarayanpriy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
